@@ -1,0 +1,15 @@
+.cardCustom {
+  background-color: rgb(26, 26, 26) !important;
+  border-color: yellow !important;
+  color: yellow !important;
+}
+
+.buttonCustomSwap {
+  background-color: rgb(53, 53, 53)!important;
+  color: lightgray !important;
+}
+
+.buttonCustomDelete {
+  background-color: rgb(53, 53, 53)!important;
+  color: rgb(255, 0, 0) !important;
+}

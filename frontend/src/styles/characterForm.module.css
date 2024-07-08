@@ -1,0 +1,17 @@
+.customInput::placeholder {
+  color: rgba(255, 255, 0, 0.5) !important;
+}
+
+.buttonCustom {
+  background-color: rgb(53, 53, 53)!important;
+  color: yellow !important;
+    margin-right: 12px;
+}
+
+.errorMessage {
+  background-color: black;
+  padding: 7px;
+  border-radius: 8px;
+  margin-left: 8px;
+  font-style: italic;
+}

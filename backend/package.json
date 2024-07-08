@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "swapi-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "devstart": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo 'No build step needed'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^9.0.1",
+    "axios": "^1.6.4",
+    "fastify": "^4.28.1",
+    "typescript": "^5.4.5"
+  }
+}

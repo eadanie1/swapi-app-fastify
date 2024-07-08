@@ -1,0 +1,35 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; 
+}
+
+#root {
+  margin: 0 auto;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.body-class {
+  background-color: rgb(0, 0, 0);
+  color: yellow;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+.card-custom {
+  background-color: rgb(26, 26, 26);
+  border-color: yellow;
+  color: yellow;
+}
